@@ -1,0 +1,34 @@
+html {
+    background-color: black;
+    background-image: url(../images/spaceBackground.jpg);
+}
+
+body {
+    width: 80%;
+    background-color: white;
+    height: 500px;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+    background-color: #3a37db;
+    height: 100px;
+}
+
+
+header h1 {
+    margin: 0 auto;
+    width: 140px;
+    padding-top: 20px;
+}
+
+ h2 {
+    padding-left: 1em;
+
+}
+
+p {
+    padding-left: 1em;
+    padding-right: 1em;
+}
