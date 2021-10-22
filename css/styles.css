@@ -1,18 +1,17 @@
 html {
-    background-color: white;
     background-image: url("https://wallpaperaccess.com/full/439038.jpg");
 }
 
 body {
     width: 80%;
-    background-color: white;
     height: 500px;
     margin: 0 auto;
 }
 
 header {
     width: 100%;
-    background-color: #3a37db;
+    text-align: center;
+    background-color:transparent;
     height: 100px;
 }
 
@@ -20,15 +19,20 @@ header {
 header h1 {
     margin: 0 auto;
     width: 600px;
+    color: white;
     padding-top: 20px;
 }
 
  h2 {
-    padding-left: 1em;
+    padding-left: .5em;
+    text-align: center;
+    color: white;
 
 }
 
 p {
     padding-left: 1em;
     padding-right: 1em;
+    text-align: center;
+    color: white;
 }
